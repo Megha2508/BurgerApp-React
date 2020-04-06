@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import Aux from '../Auxiliary/aux'
+import Aux from '../Auxiliary/auxiliary'
 import './Layout.css'
 import Toolbar from '../../components/Navigation/Toolbar/Toolbar'
 import SideDrawer from '../../components/Navigation/SideDrawer/SideDrawer'

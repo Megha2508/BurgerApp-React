@@ -1,5 +1,5 @@
 import React from 'react';
-import Aux from '../../../hoc/Auxiliary/aux';
+import Aux from '../../../hoc/Auxiliary/auxiliary';
 import '../BuildControls/BuildControls.css'
 
 const orderSummary = (props) => {
